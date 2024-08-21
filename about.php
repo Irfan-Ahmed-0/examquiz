@@ -50,6 +50,8 @@
     <h1>About Us</h1>
     <p>Welcome to our assistant for competitive platform! We aim to provide high-quality quizzes for competitive exams to help you prepare effectively And also we give Study materials , Videos to Prepare Well. We are providing all govt exam and apply link details updated.</p>
     <p>If you have any questions or feedback, feel free to contact us.</p>
+    <p>Thank you.</p>
+    
 </div>
 
 </body>
