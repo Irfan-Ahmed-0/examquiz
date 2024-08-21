@@ -50,7 +50,7 @@
 
 <div class="content">
     <h1>Notification</h1>
-    <p>Here are the latest notifications:</p>
+    <p>Here are the upadated notifications:</p>
     <ul>
         <li><strong>Notification 1:</strong></li>
         <li><strong>Notification 2:</strong></li>
